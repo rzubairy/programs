@@ -1,0 +1,48 @@
+{
+    "programs": [{
+            "id": 1,
+            "organization": "ABC Company Inc.",
+            "ProgramName": "Weekly Program 1",
+            "Description": "Weekly",
+            "StartDate": "01/01/2018",
+            "EndDate": "06/08/2018",
+            "Fee": "$100"
+        },
+        {
+            "id": 2,
+            "organization": "DEF Company LLC.",
+            "ProgramName": "Monthly Program 1",
+            "Description": "Monthly",
+            "StartDate": "01/01/2018",
+            "EndDate": "07/08/2018",
+            "Fee": "$300"
+        },
+        {
+            "id": 3,
+            "organization": "XYZ Inc.",
+            "ProgramName": "Yearly Porgram 1",
+            "Description": "Yearly",
+            "StartDate": "01/01/2018",
+            "EndDate": "12/01/2020",
+            "Fee": "$600"
+        },
+        {
+            "id": 4,
+            "organization": "QRS Corp.",
+            "ProgramName": "Weekly Program 1",
+            "Description": "Weekly",
+            "StartDate": "01/01/2018",
+            "EndDate": "06/08/2018",
+            "Fee": "$600"
+        },
+        {
+            "id": 5,
+            "organization": "KLM Organization",
+            "ProgramName": "Daily Program",
+            "Description": "Daily",
+            "StartDate": "03/01/2018",
+            "WeekDate": "11/30/2018",
+            "Fee": "$500"
+        }
+    ]
+}
